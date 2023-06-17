@@ -1,2 +1,2 @@
-ALPACA_API_KEY=your_alpaca_api_key
-ALPACA_API_SECRET=your_alpaca_api_secret
+API_KEY = "AKQ7VNKK2REXRU2NAMWD"
+SECRET_KEY = "QcOMxx034n33Tb9hgH7j43cTen9M8a9zDGjFNuX0"
