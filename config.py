@@ -1,2 +1,2 @@
-API_KEY = "api_key"
-SECRET_KEY = "secret-key"
+'APCA-API-KEY-ID': API_KEY,
+'APCA-API-SECRET-KEY': SECRET_KEY
