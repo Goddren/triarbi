@@ -1,2 +1,2 @@
-'APCA-API-KEY-ID': API_KEY,
-'APCA-API-SECRET-KEY': SECRET_KEY
+ALPACA_API_KEY=your_alpaca_api_key
+ALPACA_API_SECRET=your_alpaca_api_secret
