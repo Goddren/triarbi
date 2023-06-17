@@ -1,2 +1,2 @@
-API_KEY = "PKZQMJRSGKBNG2B37MLI"
-SECRET_KEY = "nySsvlZe3WRtOasbIovCojsI7K9oG9NlL5vXYt4Y"
+API_KEY = "api_key"
+SECRET_KEY = "secret-key"
